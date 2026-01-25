@@ -1,6 +1,7 @@
 # 1 Install Python
 - Windows: Microsoft store
-- MacOs: brew install python (obv needs homebrew, /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  )
+- MacOs: brew install python
+  (obv needs homebrew, /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  )
 - Linux: depends on distro, example for ubuntu:
   apt-get install python3 python3-dev
 
