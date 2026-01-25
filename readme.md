@@ -1,6 +1,5 @@
 # 1 Install Python
-- Windows:
--     Microsoft store
+- Windows: Microsoft store
 - MacOs:
 -     brew install python
 - (obv needs homebrew)
