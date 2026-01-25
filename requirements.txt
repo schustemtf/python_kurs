@@ -1,0 +1,10 @@
+numpy
+pygame-ce
+pytest 
+bs4
+fpdf2
+requests
+art
+opencv-python
+pillow
+virtualenv
