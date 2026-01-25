@@ -9,6 +9,7 @@
 - Windows needs WSL to be installed, or a different script to be written
 
 # 3 Install VS Code and it's python extension
+https://code.visualstudio.com/Download
 
 # 4 Use VS Code terminal to activate your enviroment we just set up
 source \</path/to/\>python_kurs_venv/bin/activate
