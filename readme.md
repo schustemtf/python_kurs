@@ -17,7 +17,7 @@ https://code.visualstudio.com/Download
 
 # 3.5 (optional) Import VScode Profile from this repository
 Will lead to an easier workflow and hiddes AI integration from 
-the students, to make them less inclide to cheat. Sadly, we have no
+the students, to make them less inclined to cheat. Sadly, we have no
 way to easily import this over cli, so every student would need to click
 -     FILE -> PREFRENCES -> PROFILES -> IMPORT PROFILE -> <explorer opens> -> CREATE
 which is a bit tedious, but I would deem it to be worth it, most of lecute 1 is spent setting up VSC anyways. 
